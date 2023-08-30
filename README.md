@@ -1,1 +1,1 @@
-shell basics
+shell basic for tutorial
