@@ -1,0 +1,2 @@
+#!/bin/bash
+find . -type dr -not -name | wc -l
